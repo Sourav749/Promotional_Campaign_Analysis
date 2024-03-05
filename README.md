@@ -28,6 +28,6 @@ As Codebasics conducted this resume challenge project, they provided the data se
 
 Thank you for your engagement with this README. Your feedback is invaluable and greatly appreciated.
 
-For a comprehensive overview of the project and its findings, encourage you to view the presentation video on LinkedIn. You can access the video [here](https://www.linkedin.com/posts/sourav-kumar-sahoo_dataanalysis-dashboard-dataanalytics-activity-7169176908453150721-7NH5?utm_source=share&utm_medium=member_desktop).
+For a comprehensive overview of the project and its findings, encourage you to view the presentation video on LinkedIn. You can access the video [here](https://www.linkedin.com/posts/sourav-kumar-sahoo_codebasicsresumeprojectchallenge-crpc8-dataanalytics-activity-7170821501703729153-pXqu?utm_source=share&utm_medium=member_desktop).
 
 If you have any questions, don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/sourav-kumar-sahoo/). I'm here to discuss any aspects of the project further and welcome your insights and feedback.
