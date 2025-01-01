@@ -7,7 +7,7 @@ Welcome to the Promotional Analysis project at AtliQ Mart! This project evaluate
 Atliq Mart, promotional offers were run during Diwali in November 2023 and Sankranti in January 2024. Now the sales director wants to understand which promotions did well and which did not so they can make informed decisions for their next promotional period.
 
 ## The Data
-As Codebasics conducted this resume challenge project, they provided the data set  you can [check here](https://codebasics.io/challenge/codebasics-resume-project-challenge).
+As Codebasics conducted this resume challenge project, they provided the data set  you can [check here](https://codebasics.io/challenge/codebasics-resume-project-challenge/12).
 
 ## Dashboard
 [Check here for the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2QyMmUyMGEtMDMwOC00M2MxLTk5Y2UtNDc3MjliNzNlZjgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection7bd8857c02594ade067e)
